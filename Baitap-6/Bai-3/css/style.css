@@ -1,0 +1,9 @@
+.container {
+    border: 1px solid #ccaaaa;
+}
+
+.header {
+	border-bottom: 1px solid#ccaaaa;
+	padding: 10px;
+	text-align: center;
+}

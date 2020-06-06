@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+}
+
+.col1 {
+    width: 8%;
+}
+
+.col {
+    margin: 5px;
+}
+
+input[type='submit']{
+	margin: 5px 70px;
+}
